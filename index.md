@@ -1,27 +1,21 @@
 ---
 layout: front
-title: CoDe CPH Conference 2014 Front
+title: CoDe STO Conference 2014 Front
 ---
 
 #Continuous Delivery & DevOps Conference
 
-##In the heart of Copenhagen.
-__October 22nd, 2014 at the Marriott Hotel Copenhagen.__
+##In Stockholm City
+__Beginning of June 2015__
 
-######<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Thanks to everyone who attended the conference. It's fair to conclude that the conference was a great success! Didn't have time to go? Get all the presentation slides [HERE!](https://drive.google.com/folderview?id=0B7COmBHPVvgEelpvZFNUX3F0VWs&usp=sharing){: target="_blank"} Stay tuned for CoDeOSL, in Oslo April 2015!</span>
+######The popular CoDe conferences from Copenhagen and Oslo now made available for the Stockholmers too.
 
-######Copenhagen now got its own conference on Continuous Delivery & DevOps. The conference name <span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">CoDe</span> is referring to Continuous Delivery and at the same time indicates what we're dealing with; software development.
+_This event is relevant to_{: .inverted} IT executives & managers, software architects & developers, project managers, agile coaches, system administrators - and everyone who's got DevOps at heart.
 
-<a href="http://cdmi.praqma.net/">
-<img src="{{site.root}}/images/maturity_model_web.png" class="stdright" style="width:500."></a>
+_Continuous Delivery, DevOps, configuration as code, software factory, software as inventory, infrastructure as code_ etc.  What does all these new principles that are refreshing the entire software development domain really mean?
 
-##This event is relevant to:
-IT executives & managers, software architects & developers, project managers, agile coaches, system administrators - and everyone who's got DevOps at heart.
+_Join the movement_{: .inverted} and come to the CoDe conference to get an insight.
 
-<span style="background:#4b4b4b; color:#FFFFFF; padding:2px;">Whether you're already deep into CoDe</span> or you're just scratching the surface and want to understand the role of Continuous Delivery, and DevOps in achieving the goals of agility, built-in-quality and time-to-market in software development - `CoDe` is for YOU.
+Right now we're busy planning the [Oslo event](http://www.code-conf.com/osl15) we will soon start adding details to the Stockholm event on these pages.
 
-Continuous Delivery and DevOps are all about implementing the agile principles for real: _"implement your definition of done"_. How did you do it? How did others do it? What are best practices? Meet-up with peers for new experiences, knowledge sharing, networking and inspiring speaks that cover all of the multi-faceted area of `CoDe`.
-
-How good is your Continuous Delivery Kung Fu? Do the <a href="http://cdmi.praqma.net" target="_blank">online self-assessment</a> and come to the conference to either teach or learn - or both.
-
-__This is going to be a reoccurring yearly conference - join us from the beginning - don't miss a beat.__
+Stay tuned - [follow us on Twitter](http://www.twitter.com/codesthlm/){: target="_blank"}
