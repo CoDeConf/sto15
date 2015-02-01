@@ -34,7 +34,6 @@ NOTE: All material must reach the event venue, no later than May 29th.
 
 **Please send to**<br/>
 Folkets Hus<br/>
-Att: Viga Lipeiko<br/>
 Barnhusgatan 12-14<br/>
 111 23 Stockholm<br/>
 Sweden<br/>
