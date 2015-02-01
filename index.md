@@ -1,12 +1,12 @@
 ---
 layout: front
-title: CoDe STO Conference 2014 Front
+title: CoDe STO Conference 2015 Front
 ---
 
 #Continuous Delivery & DevOps Conference
 
-##In Stockholm City
-__Beginning of June 2015__
+##In the heart of Stockholm
+__June 2nd, 2015 at The City Conference Centre__
 
 ######The popular CoDe conferences from Copenhagen and Oslo now made available for the Stockholmers too.
 

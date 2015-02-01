@@ -1,10 +1,10 @@
 ---
 layout: program
-title: Agenda
+title: Call For Papers
 ---
 #Call For Papers
 
-###Continuous Delivery & DevOps Stockholm - 2015
+###Continuous Delivery & DevOps Stockholm - June 2nd, 2015
 
 The agenda is currently being prepared - we're asking for papers. Submit anything you have - or if you'd like to recommend a good speaker on the topics of Continuous Delivery and DevOps tweet it on [#codesto](http://twitter.com/codesthlm/){: target="_blank"}.
 

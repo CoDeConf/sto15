@@ -25,22 +25,16 @@ Is your company mature? Take the test
 <img src="{{site.root}}/images/maturity_model_web.png" class="stdcenter" style="width:600.">
 </a><br/>
 
-###Parking at the Hotel Marriott Copenhagen<br/>
-There are a 3 parking lots around Hotel Marriott Copenhagen:
-
-- Hotel Marriotts own parking lot and next to the hotel a public parking lot.<br/>
-- There are also a public parking lot a cross from the hotel you can use.
-
 ###Accommodation<br/>
-Please let us know if you are planning to stay at the Mariott Hotel Copenhagen and we will be happy to assist you with any reservations. For assistance please [send us a mail](mailto:ah@praqma.net)
+There are various [possibilities of accommodation](http://www.stoccc.se/en/hotels-close-by/hotell-i-narheten.html) in the vicinity of conference venue. Please let us know if we can assist you in any way. For assistance please [send us a mail](mailto:ah@praqma.net)
 
 ###Information to sponsors<br/>
 Delivery of stand material can be sent to the event venue. All items must have the following information clearly indicated: Conference name: “Continuous Delivery & DevOps Conference”, name of the exhibiting company, number of pieces, and name of the person in charge of the stand.<br/>
-NOTE: All material must reach the event venue, no later than Oct. 20th.
+NOTE: All material must reach the event venue, no later than May 29th.
 
 **Please send to**<br/>
-Hotel Marriott Copenhagen<br/>
+Folkets Hus<br/>
 Att: Viga Lipeiko<br/>
-Kalvebod Brygge 5<br/>
-DK-1560 København V<br/>
-Denmark<br/>
+Barnhusgatan 12-14<br/>
+111 23 Stockholm<br/>
+Sweden<br/>
