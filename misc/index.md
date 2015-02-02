@@ -7,16 +7,16 @@ title: The rest
 
 ###Conference concept<br/>
 
-Continuous Delivery and DevOps are two concepts which lately have received a lot of attention in the IT industry.
-Continuous Delivery and DevOps can help large organizations become lean, agile and innovative.
+Continuous Delivery and DevOps are two concepts, which lately have received a lot of attention in the IT industry.
+Continuous Delivery and DevOps can help large organizations become lean, agile, and innovative.
 
-Through low-risk releases, Continuous Delivery makes it possible to continuously adapt software in line with user feedback, shifts in the market and changes to business strategy.Test, support, development and operations work together as one delivery team to automate and streamline the build, test and release process.
+Through low-risk releases, Continuous Delivery makes it possible to continuously adapt software in line with user feedback, shifts in the market, and changes to business strategy. Test, support, development, and operations work together as one delivery team to automate and streamline the build, test, and release process.
 
 Continuous Delivery allows you to get new features and capabilities to market faster and more reliably and it is at the leading edge of software development thinking.
 
 DevOps is a movement designed to facilitate the collaboration between development and IT operations to bring the portfolio of IT technology and applications forward in a cadence of faster, more predictable releases that support positive business outcomes.
 
-Hear about the latest development and best practices from the front runners and trend setters in the Continuous Delivery world. Enjoy the perfect venue at Hotel Marriott Copenhagen and meet your peers for new experiences, knowledge sharing, and network. <br/>
+Hear about the latest development and best practices from the front runners and trend setters in the Continuous Delivery world. Enjoy the impressive venue at [City Conference Centre Stockholm](http://www.stoccc.se/en/folkets-hus/folkets-hus/folkets-hus-konferens-och-kongress-mitt-i-stockholm.html) and meet your peers for new experiences, knowledge sharing, and network. <br/>
 
 <a href="http://cdmi.praqma.net/">
 Is your company mature? Take the test
