@@ -4,7 +4,7 @@ title: Sponsor packages
 ---
 #Sponsor packages
 
-######We offer three different types of sponsorships for the CoDe and DevOps conference.
+######We offer four different types of sponsorships for the CoDe and DevOps conference.
 
 <img class="stdleft" style="width:170px;" src="{{site.root}}/images/sponsoring.jpg"/> The conference will have an exhibition area where attendees can come and talk to the Gold and Silver sponsors. During the afternoon there will be a break in sessions where the attendees are encouraged to visit the sponsors.
 
@@ -15,13 +15,13 @@ Meals and refreshments are also served in the exhibition area. There will be ple
 * Premium location of sponsor booth at exhibition area
 * Logo on web, printed program, conference roll-ups, and the conference token
 * Full access to the attendees list ( title / name / address / phone number / email)
-* A 5 minute pitch of your choice at the sponsor lineup
+* A mention in the Welcome & Announcements
 
 
 ## Silver sponsor benefits
 * Booth at the exhibition area, including space for your roll-ups and materials
 * Logo on web, printed program, conference roll-ups and the conference token
-* A 5 minute pitch of your choice at the sponsor lineup
+* A mention in the Welcome & Announcements
 
 ## Happening or gimmick
 * You can sponsor anything from meals, drinks, sweets and swags. Let us know what you have in mind, and we’ll work something out.
