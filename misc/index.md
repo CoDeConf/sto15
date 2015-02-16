@@ -7,7 +7,7 @@ title: The rest
 
 ###Conference concept<br/>
 
-Continuous Delivery and DevOps are two concepts, which lately have received a lot of attention in the IT industry.
+__Continuous Delivery and DevOps__ are two concepts, which lately have received a lot of attention in the IT industry.
 Continuous Delivery and DevOps can help large organizations become lean, agile, and innovative.
 
 Through low-risk releases, Continuous Delivery makes it possible to continuously adapt software in line with user feedback, shifts in the market, and changes to business strategy. Test, support, development, and operations work together as one delivery team to automate and streamline the build, test, and release process.
