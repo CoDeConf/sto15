@@ -13,7 +13,7 @@ title: Sponsors
 
 <div style="width:200px;float:left;">
   <div style="height:200px;position:relative;">
-    <a href="{{site.root}}/sponsors/ca.html"><img style="position: absolute; bottom: 0;width:200px" src="{{site.root}}/images/sponsors/CA_logo.png" /></a>
+    <a href="{{site.root}}/sponsors/softhouse.html"><img style="position: absolute; bottom: 0;width:200px" src="{{site.root}}/images/sponsors/softhouse.png" /></a>
   </div>
   <div style="height:40px;text-align:center;font-size:82%;">Platinum sponsor<br/> and co-host</div>
 </div>
